@@ -1,0 +1,13 @@
+.vl {
+  border-left: 6px solid black;
+  height: 50px;
+  position: relative;
+}
+
+#left {
+  transform:rotateZ(45deg)
+}
+
+#right {
+  transform:rotateZ(-45deg)
+}
